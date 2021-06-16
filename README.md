@@ -10,7 +10,7 @@ Project like Kolesa, Market.kz for selling goods
 - MYSQLDB 10.3.25
 
 ### Links: 
-- telegram: @iamaaidynuly(https://t.me/iamaaidynuly)
+- telegram:  - [@iamaaidynuly](https://t.me/iamaaidynuly)
 
 ### Deploy instructions 
 - clone project
